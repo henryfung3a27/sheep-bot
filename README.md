@@ -1,3 +1,3 @@
 # Sheep Bot
 
-![sheep](/Users/pavsidhu/Documents/Projects/sheep-bot/sheep.jpg)
+![sheep](sheep.jpg)
